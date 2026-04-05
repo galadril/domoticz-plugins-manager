@@ -207,6 +207,14 @@
         "name": "MeteoAlarmEU",
         "repository": "https://github.com/ycahome/MeteoAlarmEU"
     },
+    "MeshCore": {
+        "author": "galadril",
+        "branch": ["main"],
+        "description": "MeshCore LoRa Mesh integration for Domoticz",
+        "folder": "Domoticz-MeshCore-Plugin",
+        "name": "Domoticz-Meshcore-Plugin",
+        "repository": "https://github.com/galadril/Domoticz-MeshCore-Plugin"
+    },
     "Mi_Flower_mate": {
         "author": "flatsiedatsie",
         "branch": ["master"],
